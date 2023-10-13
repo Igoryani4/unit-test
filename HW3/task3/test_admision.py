@@ -1,7 +1,7 @@
 import unittest
 from random import shuffle
 
-from admission import User, UserRepository
+from admision import User, UserRepository
 
 
 class TestUser(unittest.TestCase):
